@@ -1,5 +1,6 @@
 http://us2.internet-radio.com:8443/stream
 http://109.74.196.76/proxy/majesticjukebox?mp=/stream
+http://uk6.internet-radio.com:8465/stream
 http://de1.internet-radio.com:8204/stream
 http://5.63.151.52:7064/stream
 http://144.217.180.30:8022/stream66666
