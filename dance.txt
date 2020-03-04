@@ -1,4 +1,4 @@
-http://uk7.internet-radio.com:8222/stream 
-http://5.135.154.66:33604/listen.pls?sid=1 80sSuperDancefloor
-http://stream.generationdiscofunk.com:8000/listen.pls?sid=1 http://www.generationdiscofunk.com
-http://188.165.195.176:8034/listen.pls?sid=1
+http://5.39.82.157:8016/stream http://www.radiomela.it
+http://5.135.154.66:33604/stream 80sSuperDancefloor
+http://stream.generationdiscofunk.com:8000/stream http://www.generationdiscofunk.com
+http://188.165.195.176:8034/stream
