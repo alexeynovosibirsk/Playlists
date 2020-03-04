@@ -1,10 +1,11 @@
-http://5.39.71.159:8673/stream
-http://5.39.71.159:8635/stream
-http://5.39.71.159:8084/stream
+http://5.39.71.159:8746/stream
 http://176.9.36.203:8000/vocaltrance_320
 http://176.9.36.203:8000/positive_320
 http://176.9.36.203:8000/uplifting_320
-http://5.39.71.159:8193/stream
+http://5.39.71.159:8673/stream
+http://5.39.71.159:8635/stream
+http://5.39.71.159:8084/stream
+http://5.39.71.159:8193/stream Так_себе_надо_поглядеть...
 http://5.39.71.159:8161/stream
 http://5.39.71.159:8364/stream
 http://5.39.71.159:8430/stream
@@ -12,5 +13,4 @@ http://5.39.71.159:8147/astra
 http://5.39.71.159:8066/stream
 http://5.39.71.159:8223/stream
 http://5.39.71.159:8227/stream
-http://5.39.71.159:8746/stream
 http://144.76.106.52:7000/progressive.mp3
