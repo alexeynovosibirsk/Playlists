@@ -1,0 +1,7 @@
+https://github.com/nixoved/RadioPlayerPlaylists forFutureFeature
+ambient
+jazz
+trance
+retro
+variable
+dance
