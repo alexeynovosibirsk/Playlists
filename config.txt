@@ -2,6 +2,6 @@ https://github.com/nixoved/RadioPlayerPlaylists |It's forFutureFeature.
 ambient                                         |This and below name of buttons in webInterface -> 
 jazz                                            |and in the same time names of playlists ->
 trance                                          |so if you need other genres ->
-retro                                           |you have to change name of playlists accordinally.
+easy                                           |you have to change name of playlists accordinally.
 variable
 dance
