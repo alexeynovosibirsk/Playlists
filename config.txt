@@ -3,5 +3,5 @@ ambient               |This and below name of buttons in webInterface...
 jazz                  |and in the same time names of playlists!!!
 trance                |So if you need other genres -
 easy                  |you have to change name of playlists accordingly.
-variable
+synthwave
 dance
