@@ -615,3 +615,10 @@ http://live.magicfm.ro:9128/magicfm.aacp
 http://solid33.streamupsolutions.com:30000/stream
 http://www.esoterica.fm/esotericafmwmp.asx
 http://83.170.89.19:9866/;
+http://5.39.71.159:8000/stream
+http://5.39.71.159:8110/stream
+http://uk6.internet-radio.com:8124/stream
+http://uk7.internet-radio.com:8226/stream
+http://212.71.250.12:8040/stream
+http://109.74.196.76:8198/stream
+http://uk6.internet-radio.com:8179/stream
