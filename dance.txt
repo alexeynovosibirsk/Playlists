@@ -1,12 +1,6 @@
 http://5.39.82.157:8016/stream http://www.radiomela.it
 http://5.135.154.66:33604/stream 80sSuperDancefloor
 http://stream.generationdiscofunk.com:8000/stream http://www.generationdiscofunk.com
-http://188.165.195.176:8034/stream
-http://ice5.securenetsystems.net/WPCF
-http://sc1.mystreamserver.com:8050/;
-https://live.miamiglobalradio.com/;stream.nsv;
-http://server1.radiodanz.com:8000/;
-http://37.1.144.106:9001/;
 http://stream.radiojar.com/c7v71f1dqueuv
 http://74.208.71.58:8078/;
 http://listen.shoutcast.com/rhythm86
