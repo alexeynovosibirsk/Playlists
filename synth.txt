@@ -1,4 +1,4 @@
 http://stream.syntheticfm.com:8040/live    www.syntheticfm.com
 http://air2.radiorecord.ru:9003/synth_320  recordsynthwave
 http://air.synthez.net:8888/192            radiosyntheznet
-https://retrowave.ru:443
+https://retrowave.ru
