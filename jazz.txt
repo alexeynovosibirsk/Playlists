@@ -4,3 +4,4 @@ http://94.75.227.133:8000/; SmoothChoice.com
 http://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3 
 http://icecast.radiofrance.fr/fipjazz-hifi.aac
 http://online.radiorecord.ru:8102/mdl_128
+https://stream.open.fm/368?type=.aac&user=800043471858&player_group=WWW
