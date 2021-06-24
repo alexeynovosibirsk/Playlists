@@ -1,5 +1,9 @@
 http://stream.syntheticfm.com:8040/live    www.syntheticfm.com
 http://air2.radiorecord.ru:9003/synth_320  recordsynthwave
 http://air.synthez.net:8888/192            radiosyntheznet
-https://stream.nightride.fm/nightride.m4a  nightrideFM
-https://www.youtube.com/watch?v=xLk9ZaguQVc youtube
+https://stream.nightride.fm/nightride.m4a  NightrideFM Outrun
+https://stream.nightride.fm/darksynth.m4a  NightrideFM DarkSynth
+https://stream.nightride.fm/chillsynth.m4a NightrideFM ChillSynth
+https://nightride.fm/stream/nightride.m4a  NightrideFM2
+
+
