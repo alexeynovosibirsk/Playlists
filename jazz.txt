@@ -3,4 +3,3 @@ http://51.255.235.165:5068/stream
 http://94.75.227.133:8000/; SmoothChoice.com
 http://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3 
 http://icecast.radiofrance.fr/fipjazz-hifi.aac
-https://radiopanther.radiolebowski.com/play
