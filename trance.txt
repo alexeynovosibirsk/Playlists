@@ -1,7 +1,6 @@
 http://176.9.36.203:8000/vocaltrance_320 -
 http://176.9.36.203:8000/positive_320 -
 http://176.9.36.203:8000/uplifting_320 -
-http://5.39.71.159:8673/stream -
 http://5.39.71.159:8635/stream -
 http://5.39.71.159:8084/stream -
 http://5.39.71.159:8161/stream -
