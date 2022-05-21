@@ -1,4 +1,5 @@
 https://rwonestream.ru:8443/stream retrowave.one
+http://94.23.252.14:8179/stream Synthwave City FM
 https://mediaserv38.live-streams.nl:18030/stream Synthetic FM 1
 https://mediaserv38.live-streams.nl:18040/live Synthetic FM 2
 https://link2.rbtrack.ru/http://85.234.59.191:8000/stream radiobells.com
