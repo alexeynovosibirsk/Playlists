@@ -1,4 +1,5 @@
 https://rwonestream.ru:8443/stream retrowave.one
+https://s3.radio.co/s5fba18864/listen synthzone.net
 http://94.23.252.14:8179/stream Synthwave City FM
 https://mediaserv38.live-streams.nl:18030/stream Synthetic FM str1
 https://mediaserv38.live-streams.nl:18040/live Synthetic FM str2
