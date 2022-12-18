@@ -3,3 +3,8 @@ https://rautemusik-de-hz-fal-stream15.radiohost.de/trance?ref=radiobrowser www.r
 http://144.76.106.52:7000/progressive.mp3 Unknown
 http://listener1.aachd.tb-group.fm/trb-hd.aac TranceBase.FM
 http://radiorecord.hostingradio.ru/tm96.aacp Радио Рекорд Trancemission
+https://maggie.torontocast.com:2020/stream/100bestbalearictrance 100 BEST BALEARIC TRANCE
+https://stream.technolovers.fm/vocal-trance?ref=radiobrowser technolovers.fm
+http://strm112.1.fm/trance_mobile_mp3 1.FM - Absolute Trance (Euro) Radio
+https://anima.sknt.ru/trance.mp3 Radio Anima Amoris
+http://stream1.ml1.t4e.dj/trancelovers_high.mp3 Trancelovers
