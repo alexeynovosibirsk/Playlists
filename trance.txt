@@ -1,2 +1,5 @@
-http://strm112.1.fm/atr_mobile_mp3
-http://144.76.106.52:7000/progressive.mp3 -
+http://strm112.1.fm/atr_mobile_mp3 1.FM - Amsterdam Trance Radio
+https://rautemusik-de-hz-fal-stream15.radiohost.de/trance?ref=radiobrowser www.rm.fm/trance
+http://144.76.106.52:7000/progressive.mp3 Unknown
+http://listener1.aachd.tb-group.fm/trb-hd.aac TranceBase.FM
+http://radiorecord.hostingradio.ru/tm96.aacp Радио Рекорд Trancemission
