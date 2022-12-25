@@ -1,4 +1,3 @@
-http://us5.internet-radio.com:8283/stream Chill Lounge Florida
 http://ais-sa2.cdnstream1.com/2210_128.mp3?awparams=NoPreroll:true -
 http://airspectrum.cdnstream1.com:8114/1648_128?NoPreroll=true -
 http://ais-sa2.cdnstream1.com/2209_128.mp3?NoPreroll=true -
