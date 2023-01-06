@@ -1,6 +1,7 @@
 http://107.182.230.134/stream?icy=http Chilltrax
 https://radiorecord.hostingradio.ru/chil96.aacp Рекорд Чилаут /Радио Рекорд/
 http://streams.calmradio.com:14028/stream/1/ CalmRadio.com
+https://c22.radioboss.fm:18291/stream radiomantra.ru
 https://radio.stereoscenic.com/asp-s Sleeping Pill
 http://strm112.1.fm/spa_mobile_mp3 Destination Spa
 http://hirschmilch.de:7000/chillout.aac Hirschmilch
