@@ -1,0 +1,11 @@
+http://ais-sa2.cdnstream1.com/2210_128.mp3?awparams=NoPreroll:true -
+http://airspectrum.cdnstream1.com:8114/1648_128?NoPreroll=true -
+http://ais-sa2.cdnstream1.com/2209_128.mp3?NoPreroll=true -
+http://ais-sa2.cdnstream1.com/2345_128.mp3?NoPreroll=true -
+http://144.217.158.59:5012/stream Smooth Jazz Wave Sarasota HD
+http://7599.live.streamtheworld.com:80/977_SMOOJAZZ_SC Smooth Jazz LA
+http://51.255.235.165:5068/stream
+http://94.75.227.133:8000/; SmoothChoice.com
+http://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3
+http://icecast.radiofrance.fr/fipjazz-hifi.aac
+http://strm112.1.fm/smoothjazz_mobile_mp3

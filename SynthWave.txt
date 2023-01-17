@@ -1,5 +1,4 @@
 https://radiorecord.hostingradio.ru/synth96.aacp  recordsynthwave
-https://ice6.somafm.com/synphaera-128-aac Synphaera SomaFM
 https://rwonestream.ru:8443/stream retrowave.one
 https://mediaserv38.live-streams.nl:18030/stream Synthetic FM str1
 https://mediaserv38.live-streams.nl:18040/live Synthetic FM str2
