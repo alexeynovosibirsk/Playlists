@@ -12,3 +12,13 @@ http://176.9.36.203:8000/vocalchillout_320 Unknown
 http://198.24.145.146:9332/stream Unknown
 http://5.39.71.159:8193/stream Unknown
 http://5.39.71.159:8994/stream Unknown
+http://stream.funradio.sk:8000/chill128.mp3 Fun Radio Chill
+http://edge126.rdsnet.ro:84/profm/music-fm.mp3 Radio Music FM (ROM)
+https://st1.olivenet.es:8443/muzon Radio MuzON (ES)
+http://live.btvradio.bg/njoy.mp3 Radio N-Joy (BG)
+http://prmstrm.1.fm:8000/ibizachill Ibiza Chill Tropical
+http://prmstrm.1.fm:8000/costadelmarchillout 1.FM - Chillout Costa Del Ma
+http://prmstrm.1.fm:8000/chilloutlounge 1.FM - Chillout Lounge
+https://ch04.cdn.eurozet.pl/chi-net.mp3 Radio Chillizet (Warszawa)
+http://prmstrm.1.fm:8000/chilloutlounge Chillout Lounge Radio
+http://prmstrm.1.fm:8000/costadelmarchillout Costa Del Mar
