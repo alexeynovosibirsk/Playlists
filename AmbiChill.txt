@@ -22,3 +22,4 @@ http://prmstrm.1.fm:8000/chilloutlounge 1.FM - Chillout Lounge
 https://ch04.cdn.eurozet.pl/chi-net.mp3 Radio Chillizet (Warszawa)
 http://prmstrm.1.fm:8000/chilloutlounge Chillout Lounge Radio
 http://prmstrm.1.fm:8000/costadelmarchillout Costa Del Mar
+https://edge61.radio.antennevorarlberg.at/av-chillout Antenne Vorarlberg
