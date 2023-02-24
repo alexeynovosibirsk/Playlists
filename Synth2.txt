@@ -1,9 +1,4 @@
-https://radiorecord.hostingradio.ru/synth96.aacp  recordsynthwave
-https://rwonestream.ru:8443/stream retrowave.one
-https://mediaserv38.live-streams.nl:18030/stream Synthetic FM str1
-https://mediaserv38.live-streams.nl:18040/live Synthetic FM str2
 https://link2.rbtrack.ru/http://85.234.59.191:8000/stream radiobells.com
-http://stream.syntheticfm.com:8040/live    www.syntheticfm.com
 https://stream.laut.fm/nightdrive Laut.fm nightdrive
 http://stream.laut.fm/synthpop Laut.fm synthpop
 http://ice1.somafm.com/defcon-128-aac DefCon SomaFM
