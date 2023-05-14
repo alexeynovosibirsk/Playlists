@@ -1,5 +1,5 @@
-https://rwonestream.ru:8443/stream retrowave.one
-https://mediaserv38.live-streams.nl:18030/stream Synthetic FM stream
-https://radiorecord.hostingradio.ru/synth96.aacp  recordsynthwave
-https://mediaserv38.live-streams.nl:18040/live Synthetic FM live
-http://stream.syntheticfm.com:8040/live    www.syntheticfm.com
+http://stream.syntheticfm.com:8040/live                                  www.syntheticfm.com
+https://mediaserv38.live-streams.nl:18030/stream              Synthetic FM stream
+https://mediaserv38.live-streams.nl:18040/live                      Synthetic FM live
+https://radiorecord.hostingradio.ru/synth96.aacp               recordsynthwave
+https://rwonestream.ru:8443/stream                                         retrowave.one

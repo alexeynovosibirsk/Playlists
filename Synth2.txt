@@ -1,8 +1,8 @@
-https://link2.rbtrack.ru/http://85.234.59.191:8000/stream radiobells.com
-https://stream.laut.fm/nightdrive Laut.fm nightdrive
-http://stream.laut.fm/synthpop Laut.fm synthpop
-http://ice1.somafm.com/defcon-128-aac DefCon SomaFM
-https://stream.nightride.fm/nightride.m4a  NightrideFM Outrun
-https://stream.nightride.fm/chillsynth.m4a NightrideFM ChillSynth
-https://nightride.fm/stream/nightride.m4a  NightrideFM
-https://stream.nightride.fm/darksynth.m4a  NightrideFM DarkSynth
+http://ice1.somafm.com/defcon-128-aac                                           DefCon SomaFM
+http://stream.laut.fm/synthpop                                                           Laut.fm synthpop
+https://link2.rbtrack.ru/http://85.234.59.191:8000/stream    radiobells.com
+https://nightride.fm/stream/nightride.m4a                                   NightrideFM
+https://stream.laut.fm/nightdrive                                                       Laut.fm nightdrive
+https://stream.nightride.fm/chillsynth.m4a                                   NightrideFM ChillSynth
+https://stream.nightride.fm/darksynth.m4a                                  NightrideFM DarkSynth
+https://stream.nightride.fm/nightride.m4a                                     NightrideFM Outrun
