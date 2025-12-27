@@ -1,8 +1,66 @@
-http://jking.cdnstream1.com/b75154_128mp3              SMOOTH JAZZ 24/7 | http://www.smoothjazz247.com/ | US | Codec:AAC | Bitrate:128
-https://live.gofm.ro:2020/stream/goJAZZ                goJAZZ | https://gofm.ro/ | RO | Codec:MP3 | Bitrate:128
-http://ais-edge90-dal03.cdnstream.com/b48071_128mp3    101 SMOOTH JAZZ MELLOW MIX | http://www.101smoothjazz.com/mellow.html | US | Codec:MP3 | Bitrate:128
-http://strm112.1.fm/smoothjazz_mobile_mp3              1.FM - Bay Smooth Jazz Radio | http://www.1.fm/ | CH | Codec:MP3 | Bitrate:128
-https://smoothjazz.cdnstream1.com/2585_128.mp3         SmoothJazz.com | https://www.smoothjazz.com/ | US | Codec:MP3 | Bitrate:192
-http://ais-edge90-dal03.cdnstream.com/b75154_128mp3    Smooth Jazz 247 (new) | http://www.smoothjazz247.com/ | US | Codec:MP3 | Bitrate:128
-https://smoothjazz.cdnstream1.com/2585_320.mp3         Smooth Jazz |  | US | Codec:OGG | Bitrate:128
-http://jfm1.hostingradio.ru:14536/sjstream.mp3         Радио Jazz Smooth | https://radiojazzfm.ru/ | RU | Codec:MP3 | Bitrate:128
+https://icecast.walmradio.com:8443/jazz  | Adroit Jazz Underground | https://walmradio.com/jazz | US | Lang:english | Bitrate:320
+https://s2.radio.co/s22ae5a8a6/listen  | JFSR - Jazz Funk Soul Radio | https://jfsr.co.uk/ | GB | Lang:english | Bitrate:320
+https://ec1.yesstreaming.net:2905/stream  | Classical Jazz Radio | https://jazzradionetwork.com/classical-jazz-radio/ | US | Lang: | Bitrate:256
+http://stream-02-eu.relaxingjazz.com/stream/3/  | RelaxingJazz.com | https://relaxingjazz.com/ | BB | Lang: | Bitrate:320
+https://smoothjazz.cdnstream1.com/2585_320.mp3  | SmoothJazz.com 320k mp3 | https://www.smoothjazz.com/ | US | Lang:english | Bitrate:320
+http://mscp3.live-streams.nl:8340/jazz-high.aac  | Linn Jazz | https://www.linn.co.uk/linn-radio | GB | Lang:english | Bitrate:320
+https://icecast.walmradio.com:8443/jazz  | Adroit Jazz Underground | https://walmradio.com/jazz | US | Lang: | Bitrate:320
+http://mediaserv38.live-streams.nl:8006/  | Hi On Line Jazz Radio | http://www.hionline.eu/ | NL | Lang: | Bitrate:320
+http://radio.linn.co.uk:8000/autodj  | Linn Jazz | https://www.linn.co.uk/linn-radio | GB | Lang:english | Bitrate:320
+https://smoothjazz.cdnstream1.com/2585_320.mp3  | Smooth Jazz |  | US | Lang: | Bitrate:320
+http://79.111.119.111:8004/avantgardejazz  | Avant-Garde Jazz/Free Improvisation - Radio Caprice | http://radcap.ru/avantgardejazz.html |  | Lang: | Bitrate:320
+http://mediaserv38.live-streams.nl:8006/live  | jazz Ethiopia world  | http://mediaserv38.live-streams.nl:8006/live | ET | Lang:amharic,engilsh | Bitrate:320
+http://mscp3.live-streams.nl:8340/jazz-high.aac  | Naim Jazz [320k aac] | https://www.naimaudio.com/ | GB | Lang: | Bitrate:320
+https://radio.jazzfm.mk/listen/jazzfm/live  | Jazz FM | https://jazzfm.mk/ | MK | Lang: | Bitrate:320
+http://mediaserv38.live-streams.nl:8006/live  | jazz | https://youtu.be/WrqgUTpWQ0I | ET | Lang:engilsh | Bitrate:320
+http://79.111.14.76:8000/acidjazz  | Radio Caprice ACID / CLUB / GROOVE JAZZ | http://radcap.ru/acidjazz.html | RU | Lang: | Bitrate:320
+http://radio.linn.co.uk:8000/autodj  | Linn Jazz | https://linn.co.uk/ | GB | Lang: | Bitrate:320
+http://mediaserv38.live-streams.nl:8006/live  | Jazz Ethopia World | http://mediaserv38.live-streams.nl:8006/live | ET | Lang: | Bitrate:320
+http://79.120.77.11:8004/manouche  | JAZZ MANOUCHE / GYPSY JAZZ / GYPSY SWING - Radio Caprice | http://radcap.ru/manouche.html | RU | Lang:english | Bitrate:320
+https://wicn-ice.streamguys1.com/live-mp3  | 90.5 WICN Public Radio - Jazz+ for New England | https://www.wicn.org/ | US | Lang:english | Bitrate:256
+http://streams.greenhost.nl:8080/jazz  | Concertzender Jazz | https://www.concertzender.nl/programma_genre/jazz/ | NL | Lang:dutch,english | Bitrate:256
+http://79.120.39.202:8000/darkjazz  | RADCAP: DARK / DOOM / NOIR / FUNERAL / AMBIENT JAZZ | http://radcap.ru/darkjazz.html | RU | Lang: | Bitrate:320
+http://mediaserv38.live-streams.nl:8006/live  | Hi On Line Radio - Jazz | https://www.hionline.eu/ | NL | Lang: | Bitrate:320
+http://mediaserv38.live-streams.nl:8006/  | Jazz Ethopia World |  | ET | Lang: | Bitrate:320
+https://nashe1.hostingradio.ru/jazz-256  | Радио JAZZ 89.1 256kbps | https://radiojazzfm.ru/ | RU | Lang:russian | Bitrate:256
+http://mediaserv38.live-streams.nl:8006/live  | jazz | https://yonaskassahun011.wixsite.com/selamcoffee-1 | ET | Lang:engilsh | Bitrate:320
+http://79.111.14.76:8000/acidjazz  | Acid Jazz |  | RU | Lang: | Bitrate:320
+https://cast.magicstreams.gr/sc/111radio/stream  | Smooth Jazz 111 | http://www.111radio.gr/ | GR | Lang: | Bitrate:320
+http://nashe1.hostingradio.ru/jazz-256  | Радио Jazz |  | RU | Lang: | Bitrate:256
+http://89.223.45.5:8000/jazz-flac  | SECTOR | JAZZ | http://sectorradio.ru/ | RU | Lang: | Bitrate:3072
+http://radio.linn.co.uk:8000/autodj  | Linn Jazz | https://linn.co.uk/linn-radio | GB | Lang:english | Bitrate:320
+https://audio-edge-3mayu.fra.h.radiomast.io/818607ce-8815-42fb-8dfc-344234a0ff83  | Europa Radio Jazz HD | https://www.europaradiojazz.org/ | FR | Lang: | Bitrate:320
+https://smoothjazz.cdnstream1.com/2585_256.mp3  | SmoothJazz.com 256k mp3 | https://www.smoothjazz.com/ | US | Lang: | Bitrate:256
+https://stream.tunerplay.com/radio/8020/jazzradiospain.mp3  | Jazz Radio Spain | http://www.jazzradiospain.com/ | ES | Lang:spanish | Bitrate:256
+http://79.120.77.11:8000/mcreative  | Radio Caprice Jazz Modern Creative | http://radcap.ru/moderncreative.html | RU | Lang: | Bitrate:320
+https://ec1.yesstreaming.net:1365/stream  | Jazz Vespers (update 2025) | https://jazzradionetwork.com/jazz-vespers-radio/ | US | Lang: | Bitrate:256
+http://79.120.77.11:8000/jazz  | Jazz |  | RU | Lang: | Bitrate:320
+http://79.120.77.11:8000/guitarjazz  | Guitar Jazz |  | RU | Lang: | Bitrate:320
+http://213.141.131.10:8004/jazzmetal  | RadCap - Jazz Fusion Metal | http://radcap.ru/jazzmetal.html | RU | Lang:russian | Bitrate:320
+http://79.111.14.76:8000/mainstreamjazz  | Mainstream Jazz |  | RU | Lang: | Bitrate:320
+https://mediaserv73.live-streams.nl:8027/stream  | All Day Jazz | https://www.alldayjazz.co.uk/ | NL | Lang: | Bitrate:320
+https://boisestate.streamguys1.com/Jazz-aac-256k-icy.aac  | BSPR Music (Jazz) | https://www.boisestatepublicradio.org/ | US | Lang:english | Bitrate:256
+http://smoothjazz.cdnstream1.com/2585_320.mp3  | Smooth Jazz Global | https://www.smoothjazz.com/ | US | Lang: | Bitrate:320
+http://79.120.77.11:8000/guitarjazz  | Guitar Jazz |  | RU | Lang: | Bitrate:320
+https://listen.radioking.com/radio/127546/stream/216016  | Couleurs JAZZ | https://couleursjazz.fr/ | FR | Lang: | Bitrate:320
+https://icecast.walmradio.com:8443/jazz  | Adroit Jazz Underground | https://walmradio.com/jazz | US | Lang: | Bitrate:320
+https://diffusion.lafrap.fr/sun-jazz.mp3  | SUN Jazz | https://www.lesonunique.com/ | FR | Lang: | Bitrate:320
+http://79.111.14.76:8000/souljazz  | Soul Jazz |  | RU | Lang: | Bitrate:320
+https://audio-edge-hy4wy.blr.d.radiomast.io/818607ce-8815-42fb-8dfc-344234a0ff83  | Europa Radio Jazz SD | https://www.europaradiojazz.org/ | FR | Lang: | Bitrate:320
+https://icecast.walmradio.com:8443/jazz  | Adroit Jazz Underground | https://walmradio.com/jazz | US | Lang: | Bitrate:320
+https://mediaserv38.live-streams.nl:18006/stream  | Hi On Line - Jazz | https://www.hionline.eu/ | NL | Lang:dutch | Bitrate:320
+http://79.120.77.11:8000/jazz  | Jazz |  | RU | Lang: | Bitrate:320
+https://kunv.oit.unlv.edu/stream/1/  | 91.5 Jazz & More | KUNV Las Vegas | http://kunv.org/ | US | Lang: | Bitrate:256
+https://443-1.autopo.st/36/320K/;&type=mp3  | SomehowJazz | https://somehowjazz.com/ | CA | Lang: | Bitrate:320
+http://streams.greenhost.nl:8080/jazz  | World of Jazz | https://www.worldofjazz.nl/en | NL | Lang: | Bitrate:256
+http://79.120.77.11:8004/manouche  | Jazz Manouche/Gypsy Jazz/Gypsy Swing - Radio Caprice | http://www.radcap.ru/manouche.html | RU | Lang: | Bitrate:320
+https://streaming.azpm.org/jazz256  | AZPM Jazz 89.1 HD2 AAC 256 | https://radio.azpm.org/jazz/ | US | Lang:english | Bitrate:255
+https://kunv.oit.unlv.edu/stream/1/  | 91,5 Jazz and more |  | US | Lang: | Bitrate:256
+http://diffusion.lafrap.fr/sun-jazz.mp3  | SUN Jazz | https://www.lesonunique.com/ | FR | Lang: | Bitrate:320
+http://79.111.119.111:8000/avantgardejazz  | Radio Caprice - Avant-Garde Jazz / Free Improvisation [2] | http://radcap.ru/avantgardejazz.html | RU | Lang:russian | Bitrate:320
+https://smoothjazz.cdnstream1.com/2585_256.mp3  | Smooth Jazz Global Radio |  | US | Lang: | Bitrate:256
+http://79.120.77.11:8000/jazz  | Jazz |  | RU | Lang: | Bitrate:320
+http://streams.greenhost.nl:8080/live  | World of Jazz | https://www.worldofjazz.nl/en | NL | Lang: | Bitrate:256
+http://aska.ru-hoster.com:8061/stream  | Jazztice | https://jazztice.ru/ | RU | Lang: | Bitrate:256
+http://79.111.14.76:8000/mainstreamjazz  | Radio Caprice - MainstreamJazz | http://radcap.ru/ | RU | Lang: | Bitrate:320
+https://audio-edge-kef8b.ams.s.radiomast.io/818607ce-8815-42fb-8dfc-344234a0ff83  | Europa Radio Jazz HD | https://www.europaradiojazz.org/ | FR | Lang: | Bitrate:320
